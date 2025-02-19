@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My new test post
+title: Sample post
 tags: [A Tag, Katex]
 excerpt_separator: <!--more-->
 ---
