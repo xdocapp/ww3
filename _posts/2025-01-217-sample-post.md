@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample post
+title: New post
 tags: [A Tag, Katex]
-excerpt_separator: <!--more-->
+# excerpt_separator: <!--more-->
 ---
 
 Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
