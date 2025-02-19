@@ -1,12 +1,10 @@
 ---
 layout: post
-title: New post
-tags: [A Tag, Katex]
-# excerpt_separator: <!--more-->
+title: "Welcome to Jekyll!"
 ---
 
-Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
+# Welcome
 
-- Consectetur adipiscing elit
-- Donec a diam lectus
-- Sed sit amet ipsum mauris
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
