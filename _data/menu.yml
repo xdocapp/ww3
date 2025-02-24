@@ -5,6 +5,7 @@
   hide: true
   position: 2
 - type-on-strap:
-  title: "Type on Straps"
+  title: "Typee on Straps"
   url: https://github.com/sylhare/Type-on-Strap
+  hide: true
   position: 1
