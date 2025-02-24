@@ -13,7 +13,7 @@ header_text: A document Exchange App # Change Blog header text
 header_feature_image: assets/img/header/flowchart.png
 header_feature_image_responsive: true
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Types on Strap</a>
 
 # Blog
 excerpt: true # Or "truncate" (first 250 characters), "false" to disable
